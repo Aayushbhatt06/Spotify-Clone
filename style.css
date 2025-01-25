@@ -56,6 +56,10 @@ body{
     margin-right: 10px;
 }
 
+.box2{
+    height: 472px;
+}
+
 .Library::after{
     content: "+";
     float: right;
